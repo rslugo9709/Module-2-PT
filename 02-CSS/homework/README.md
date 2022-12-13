@@ -4,9 +4,9 @@
 ---
 1. En un archivo de texto separado que debes crear, escribe explicaciones de los siguientes conceptos como si se lo estuvieras explicando a un niño de 12 años. Hacer esto te ayudará a descubrir rápidamente cualquier agujero en tu comprensión.
 
-	* Framework
-	* Preprocesador
-	* Responsive website
+	* Framework: Son plantillas que se usan para crear sitios web de manera mas rapida, sin tener que codear varios aspectos por ti mismo, son basicamente sitios web pre fabricados.
+	* Preprocesador: Son basicamente traductores, con los cuales se pueden usar operaciones externas a css para luego traducirlo al codigo de este. Permite crear variables, funciones, importar codigo.  
+	* Responsive website: Es un diseño de una pagina web adaptable a cada tipo de dispositivo de donde se llame, si es un celular o desktop, se deberá ver acorde al tamaño de la pantalla. 
 
 
 2. Crear una Responsive Website según las siguientes indicaciones:

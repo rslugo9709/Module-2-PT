@@ -1,1 +1,22 @@
 // Mixins acá
+
+//creamos unas funciones que tienen unos valores predeterminados en caso de que no reciban parametros
+.flex(@direction: column, @justify, @align){
+
+    display: flex;
+    flex-direction: @direction;
+    justify-content: @justify;
+    align-items: @align;
+}
+
+//no se puede pasar .flex(center, center)
+
+//se hace .flex(@justify: center, @align, center)
+
+
+
+.btn(@color, @background, @border){
+    color: @color;
+    background-color: @background;
+    border: @border 1px black;
+}
